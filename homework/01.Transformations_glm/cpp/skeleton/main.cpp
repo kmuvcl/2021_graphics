@@ -124,7 +124,7 @@ void glm_transform_test() {
   std::cout << "Projection matrix with ortho()" << std::endl;
   std::cout << mat_Ortho << std::endl;
 
-  std::cout << "Projection matrix with frusutm()" << std::endl;
+  std::cout << "Projection matrix with frustum()" << std::endl;
   std::cout << mat_Frustum << std::endl;
 
   std::cout << "Projection matrix with perspective()" << std::endl;

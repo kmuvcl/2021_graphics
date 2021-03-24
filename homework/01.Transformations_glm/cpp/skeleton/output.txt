@@ -75,7 +75,7 @@ Projection matrix with ortho()
 [0, 0, 1, 0]
 [0, 0, 0, 1]
 
-Projection matrix with frusutm()
+Projection matrix with frustum()
 [1, 0, 0, 0]
 [0, 1, 0, 0]
 [0, 0, -1.0002, -0.20002]
